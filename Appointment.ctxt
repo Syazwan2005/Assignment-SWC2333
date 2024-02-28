@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Appointment
+comment0.text=\r\nName\:\ Muhammad\ Faris\ Syazwan\ Bin\ Asmadi\r\nDate\:\ 28\ FEBRUARI\ 2024\r\nTitle\:Assignment\r\n
+comment1.params=patientName\ apptDate\ apptTime\ dentistName
+comment1.target=Appointment(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getPatientName()
+comment3.params=
+comment3.target=java.lang.String\ getApptDate()
+comment4.params=
+comment4.target=java.lang.String\ getApptTime()
+comment5.params=
+comment5.target=java.lang.String\ getDentistName()
+comment6.params=patientName
+comment6.target=void\ setPatientName(java.lang.String)
+comment7.params=apptDate
+comment7.target=void\ setApptDate(java.lang.String)
+comment8.params=apptTime
+comment8.target=void\ setApptTime(java.lang.String)
+comment9.params=dentistName
+comment9.target=void\ setDentistName(java.lang.String)
+numComments=11
